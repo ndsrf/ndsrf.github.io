@@ -1,0 +1,56 @@
+Política de privacidad de dotnetmalaga.com
+
+Esta Aplicación recoge algunos Datos Personales de sus Usuarios para mostrar estadísticas con Google Analytics.
+
+Responsable de Tratamiento de los Datos y Titular
+Javier Garcia Magna,
+jotimeil@hotmail.com
+Clases de Datos recogidos
+Entre las clases de Datos Personales que esta Aplicación recoge, ya sea directamente o a través de terceros, se encuentran: Cookie y Datos de uso.
+Otros Datos Personales recogidos pueden encontrarse descritos en otros apartados de la presente política de privacidad o en un texto explicativo específico mostrado contextualmente en el momento de la recogida de dichos Datos.
+Los Datos Personales pueden ser proporcionados por el Usuario por su propia voluntad, o bien ser recogidos automáticamente durante la utilización de esta Aplicación.
+Salvo que se indique lo contrario, el uso de Cookies – o de otras medios de seguimiento – por esta Aplicación o por los propietarios de servicios de terceros utilizados por esta Aplicación tiene como finalidad la identificación de los Usuarios y el registro de sus preferencias, con la única finalidad de prestar el servicio solicitado por el Usuario.
+La negativa del Usuario a proporcionar ciertos Datos Personales podría imposibilitar a esta Aplicación la prestación de sus servicios.
+El Usuario asume la responsabilidad por los Datos Personales de terceros publicados o compartidos mediante esta Aplicación y declara que tiene el consentimiento de dichos terceros para proporcionar los Datos al Titular.
+Modalidad y lugar del Tratamiento de los Datos recogidos
+Modalidades de Tratamiento
+El Responsable de Tratamiento tratará los Datos de los Usuarios de manera adecuada y adoptará las medidas de seguridad apropiadas para impedir el acceso, la revelación, alteración o destrucción no autorizados de los Datos.
+El tratamiento de Datos se realiza mediante ordenadores y/o herramientas informáticas, siguiendo procedimientos y modalidades organizativas estrictamente relacionadas con las finalidades señaladas. Además del Responsable de Tratamiento, en algunos casos podrán acceder a los Datos ciertas categorías de personas encargadas relacionadas con el funcionamiento de la página (administración, ventas, marketing, departamento jurídico y de administración de sistemas) o contratistas externos que presten servicios al Responsable de Tratamiento (tales como proveedores externos de servicios técnicos, empresas de mensajería, “hosting providers”, empresas de informática, agencias de comunicación) que serán nombrados por el Titular como Encargados del Tratamiento, si fuera necesario. Se podrá solicitar al Responsable de Tratamiento en cualquier momento una lista actualizada de dichas personas.
+Lugar
+Los Datos serán tratados en la sede operativa del Responsable de Tratamiento, así como en otros lugares en los que se encuentren situadas las partes que también estén involucradas en dicho tratamiento. Para más información, por favor póngase en contacto con el Responsable de Tratamiento.
+Período de Conservación
+Los Datos serán tratados durante el plazo necesario para prestar el servicio solicitado por el Usuario, o el que se requiera en función de las finalidades descritas en este documento, y el Usuario tendrá en todo momento la facultad de solicitar la interrupción de su Tratamiento o la cancelación de los Datos.
+Finalidad del Tratamiento de los Datos recogidos
+Los Datos relativos al Usuario son recogidos para permitir al Titular la prestación de sus servicios, así como para las siguientes finalidades: Estadísticas.
+Los Datos Personales utilizados para cada finalidad son descritos en los apartados específicos de este documento.
+Información detallada del tratamiento de los Datos Personales
+Se recogen Datos Personales para las siguientes finalidades y utilizando los siguientes servicios:
+
+Estadísticas
+
+Los servicios contenidos en esta sección permiten al Titular monitorizar y analizar el tráfico web y pueden ser utilizados para rastrear el comportamiento del Usuario.
+Google Analytics (Google)
+Google Analytics es un servicio de análisis web prestado por Google Inc. (“Google”). Google utiliza los Datos recogidos para rastrear y examinar el uso de esta Aplicación, para preparar informes de sus actividades y compartirlos con otros servicios de Google.
+Google puede utilizar los Datos recogidos para contextualizar y personalizar los anuncios de su propia red de publicidad.
+Datos Personales recogidos: Cookie y Datos de uso.
+Lugar de tratamiento : EE.UU. – Política de privacidad – Opt Out
+
+
+Información adicional sobre la recogida de Datos y su tratamiento
+Defensa jurídica
+Los Datos Personales del Usuario podrán ser utilizados para la defensa jurídica del Titular en juicio o en las fases prejudiciales previas a un posible pleito derivado del uso abusivo por parte del Usuario de esta Aplicación o de los servicios relacionados.
+El Usuario es consciente de que el Titular puede ser requerido por autoridades públicas a fin de revelar Datos Personales.
+Información adicional acerca de los Datos Personales del Usuario
+Además de las informaciones contenidas en esta política de privacidad, esta Aplicación podrá proporcionar al Usuario información contextual relativa a servicios específicos o a la recogida y tratamiento de los Datos Personales.
+Log del sistema y mantenimiento
+Por motivos relativos al funcionamiento y el mantenimiento, esta Aplicación y cualesquiera otros servicios de terceros que se utilicen podrán recoger un Log del sistema, esto es, archivos que registren las interacciones y que pueden contener Datos Personales, tales como la dirección IP del Usuario.
+Información no contenida en esta política de privacidad
+Se podrá solicitar en cualquier momento información adicional sobre la recogida y el tratamiento de los Datos Personales al Responsable de Tratamiento. Encontrará la información de contacto al inicio del presente documento.
+Ejercicio de los derechos por los Titulares de los Datos
+Los titulares a los que se refieren los Datos Personales tienen derecho a obtener en cualquier momento la confirmación de que estos han sido almacenados por el Responsable de Tratamiento, a conocer su contenido y origen, a verificar su exactitud o solicitar que sean completados, cancelados, actualizados o rectificados, a que sean anonimizados o a que se bloqueen aquellos Datos Personales que están siendo tratados en contravención de las leyes, así como a oponerse a su tratamiento por cualquier motivo legítimo. Las solicitudes deberán remitirse al Responsable de Tratamiento utilizando los datos de contacto indicados anteriormente.
+Modificación de esta política de privacidad
+El Responsable de Tratamiento se reserva el derecho de modificar esta política de privacidad en cualquier momento notificándolo a los Usuarios a través de esta página. Se recomienda encarecidamente que revisen esta página con frecuencia, tomando como referencia la fecha de la última modificación indicada al final. En el caso de que un Usuario esté en desacuerdo con alguna de las modificaciones realizadas a esta Política, el Usuario deberá cesar en el uso de esta Aplicación y podrá solicitar al Responsable de Tratamiento que elimine sus Datos Personales. Salvo que se indique lo contrario, la política de privacidad vigente en cada momento será de aplicación a todos los Datos Personales que el Responsable de Tratamiento haya recogido hasta entonces.
+Información acerca de esta política de privacidad
+El Responsable de Tratamiento es responsable de esta política de privacidad, que ha sido redactada a partir de los módulos proporcionados por Iubenda y almacenados en los servidores de Iubenda.
+Definiciones y referencias legales
+Última revisión: 13 Abril 2015
